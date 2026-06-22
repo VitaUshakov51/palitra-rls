@@ -1,0 +1,1 @@
+JET palette viewer. Open index.html in a browser. Colors are extracted from vector fills in the supplied PDF; original numbers and marks are visible in PDF crop images on cards and in the modal window.
