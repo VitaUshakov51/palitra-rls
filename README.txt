@@ -1,1 +1,1 @@
-JET palette viewer. Open index.html in a browser. Colors are extracted from vector fills in the supplied PDF; original numbers and marks are visible in PDF crop images on cards and in the modal window.
+RLS palette viewer. Open index.html in a browser. Colors are extracted from vector fills in the supplied PDF; original numbers and marks are visible in PDF crop images on cards and in the modal window. Each color card now includes two samples: a clean digital swatch and a CSS fabric/subli­mation imitation of the same HEX color.
